@@ -3,7 +3,7 @@
 #### Print screen
   ![alt text](https://github.com/vorellana/secret-code/blob/main/image1.png?raw=true)
 ## Instalación y uso
-**Es un requisito tener instalado Node** Si no lo tiene puede revisar el siguiente enlace para la instalación.
+**Es un requisito tener instalado Node**, si no lo tiene puede revisar el siguiente enlace para la instalación.
 https://nodejs.org/es/download/
 ```sh
 # descargamos el proyecto
